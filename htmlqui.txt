@@ -5,7 +5,7 @@
 
 <meta charset="UTF-8"> 
 
-<!--essa linha abaixo é importante para deixar o layout responsivo--> 
+<!--essa linha abaixo Ã© importante para deixar o layout responsivo--> 
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
 
@@ -71,7 +71,7 @@ grid-template-columns: auto auto auto auto auto;
 
 .grid { 
 
-/* No caso de celular, uma única coluna */ 
+/* No caso de celular, uma Ãºnica coluna */ 
 
 width: auto; 
 
@@ -96,21 +96,21 @@ grid-template-columns: auto;
 
 
 
-<img src=“mamao1.gif” width="200" height="200">< img> 
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
-<img src=“mamao1.gif” width="200" height="200">< img>
+<img src=â€œ â€ width="200" height="200">< img> 
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
+<img src=â€œmamao1.gifâ€ width="200" height="200">< img>
 
 
 
